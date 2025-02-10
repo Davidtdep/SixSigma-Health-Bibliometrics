@@ -68,7 +68,7 @@ The repository is organized as follows:
 ```
 /SixSigma-Health-Bibliometrics
 │── main_analysis.R         # Main R script for all analyses
-│── /data/                  # Preprocessed health indicators from WHO
+│── /indicators/                  # Preprocessed health indicators from WHO
 │── README.md               # Documentation
 ```
 
